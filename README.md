@@ -4,7 +4,7 @@ IPL is the most-attended cricket league in the world and in 2014 was ranked sixt
 &nbsp;
 This project aims to answer and analyse basis questions with a quantitative approach using python libraries like pandas, matplotlib and seaborn.<br />
 ## Is team performance relate to match venue?
-<img width="892" alt="prob long" src="https://user-images.githubusercontent.com/83449512/149203381-211e083c-902a-49d7-8042-3cac455a80c2.png">
+<img width="810" alt="prob long" src="https://user-images.githubusercontent.com/83449512/149203381-211e083c-902a-49d7-8042-3cac455a80c2.png">
 
 
 ## How does toss outcome and toss decision affect the match outcome?
