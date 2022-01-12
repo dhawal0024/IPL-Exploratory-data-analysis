@@ -4,4 +4,4 @@ IPL is the most-attended cricket league in the world and in 2014 was ranked sixt
 &nbsp;
 This project aims to answer and analyse basis questions with a quantitative approach using python libraries like pandas, matplotlib and seaborn.<br />
 # Is team performance relate to match venue?
-![This is an image](https://github.com/dhawal0024/IPL-Exploratory-data-analysis/blob/19ca50c2ff474aebfefc112ceefc81bbbfcadcdc/home%20ground.png)
+![This is an image](https://github.com/dhawal0024/IPL-Exploratory-data-analysis/blob/19ca50c2ff474aebfefc112ceefc81bbbfcadcdc/home%20ground.png=100x20)
