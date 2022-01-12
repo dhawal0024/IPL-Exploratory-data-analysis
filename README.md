@@ -9,6 +9,6 @@ This project aims to answer and analyse basis questions with a quantitative appr
 
 # How does toss outcome and toss decision affect the match outcome?
 <img width="810" alt="toss decision" src="https://user-images.githubusercontent.com/83449512/149202216-19e0b239-0bbe-40e3-9744-df11cf5db9df.png">
-<img width="731" alt="win pre " src="https://user-images.githubusercontent.com/83449512/149203867-f9ee41a9-23e5-4aad-b5cc-af744d75e054.png">
+<img width="790" alt="win pre " src="https://user-images.githubusercontent.com/83449512/149203867-f9ee41a9-23e5-4aad-b5cc-af744d75e054.png">
 # Basis Stacts
 
