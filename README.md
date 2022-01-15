@@ -13,4 +13,6 @@ This project aims to answer and analyse basis questions with a quantitative appr
 <img width="790" alt="win pre " src="https://user-images.githubusercontent.com/83449512/149203867-f9ee41a9-23e5-4aad-b5cc-af744d75e054.png">
 
 # Basis Stacts
+![newplot](https://user-images.githubusercontent.com/83449512/149633705-7781bebe-806c-4764-a1f1-a9a34e2a131b.png)
+
 
